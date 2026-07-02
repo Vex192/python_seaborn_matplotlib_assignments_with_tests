@@ -1,0 +1,16 @@
+{
+    "explorerSort.rules": [
+        {
+            "name": "Auto-generated for **/*",
+            "pathPattern": "**/*",
+            "priorities": [
+                {
+                    "condition": "name === 'Assignment#2.ipynb'",
+                    "priority": 0,
+                    "referenceFile": "Assignment#10.ipynb",
+                    "offset": 0
+                }
+            ]
+        }
+    ]
+}
